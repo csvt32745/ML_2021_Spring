@@ -3,27 +3,27 @@ ML course in NTU: https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html \
 ```All inital codes are provided by TAs```
 
 - HW1: Regression of COVID by Neural Network
-  - Kaggle Leaderboard (Pub, Overall / Total): ```2, 449 / 2032```
+  - Kaggle Leaderboard (Public, Overall / Total): ```2, 449 / 2032```
   - Overfitting
 - HW2: Phoneme Classification from MFCC
-  - Kaggle Leaderboard (Pub, Overall / Total): ```110, 112 / 1522```
+  - Kaggle Leaderboard (Public, Overall / Total): ```110, 112 / 1522```
   - Separable Conv2d
   - Feature Scaling
   - Voting
 - HW3: Food Classification with Semi-supervised learning
-  - Kaggle Leaderboard (Pr, Overall / Total): ```10, 46 / 1404```
+  - Kaggle Leaderboard (Public, Overall / Total): ```10, 46 / 1404```
   - AutoAugment
   - Unbiased Teacher like pipeline
   - Soft pseudo-label
   - Voting with data augmentation on testing set
 - HW4: Speaker classification by Self-Attention
-  - Kaggle Leaderboard (Pr, Overall / Total): ```448, 545 / 1170```
+  - Kaggle Leaderboard (Public, Overall / Total): ```448, 545 / 1170```
 - HW8: Anomaly Detection
-  - Kaggle Leaderboard (Pr, Overall / Total): ```219, 220 / 1193```
+  - Kaggle Leaderboard (Public, Overall / Total): ```219, 220 / 1193```
 - HW10: Adversarial Attack
   - MI-FGSM on ensembled model
 - HW11: Domain Adaptation from img IRL to sketch
-  - Kaggle Leaderboard (Pr, Overall / Total): ```15, 16 / 1061```
+  - Kaggle Leaderboard (Public, Overall / Total): ```15, 16 / 1061```
   - DANN
   - Data Augmentation
     - Impulse Noise
@@ -35,7 +35,7 @@ ML course in NTU: https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html \
   - Pseudo label with relative probability
   - Reassign labels to balance class-distribution while inference
 - HW13: Network Compression (extend of HW3 but less parameters)
-  - Kaggle Leaderboard (Pr, Overall / Total): ```7, 3 / 590```
-  - Separable Conv2d instad of Vanilla Conv2d
+  - Kaggle Leaderboard (Public, Overall / Total): ```7, 3 / 590```
+  - Separable Conv2d instead of Vanilla Conv2d
   - AutoAugment + RandomErasing
   - Dropout
