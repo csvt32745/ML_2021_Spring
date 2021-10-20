@@ -7,7 +7,7 @@ ML course in NTU: https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html \
   - Overfitting
 - HW2: Phoneme Classification from MFCC
   - Kaggle Leaderboard (Public, Overall / Total): ```110, 112 / 1522```
-  - Separable Conv2d
+  - Separable Conv1d
   - Feature Scaling
   - Voting
 - HW3: Food Classification with Semi-supervised learning
